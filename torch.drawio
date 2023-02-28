@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T16:23:38.536Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gWG7pWI_j04fbDOtuOIg" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T16:30:24.371Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="eASEHBxPqJLFsFcLvFqq" version="20.8.23" type="github">
   <diagram name="Page-1" id="evR2WpcKhbSjpmel14RK">
     <mxGraphModel dx="2074" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,27 +56,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UVvk1TwP4h5ap9DMddXs-19" value="device allreduce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UVvk1TwP4h5ap9DMddXs-20" value="all kernel ending" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="UVvk1TwP4h5ap9DMddXs-21" target="UVvk1TwP4h5ap9DMddXs-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UVvk1TwP4h5ap9DMddXs-21" value="MCP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UVvk1TwP4h5ap9DMddXs-22" value="host op ending" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="UVvk1TwP4h5ap9DMddXs-23" target="UVvk1TwP4h5ap9DMddXs-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="460" />
-              <mxPoint x="100" y="460" />
+              <mxPoint x="100" y="420" />
+              <mxPoint x="100" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UVvk1TwP4h5ap9DMddXs-23" value="host allreduce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UVvk1TwP4h5ap9DMddXs-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVvk1TwP4h5ap9DMddXs-24" target="UVvk1TwP4h5ap9DMddXs-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UVvk1TwP4h5ap9DMddXs-24" value="MCP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="40" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UVvk1TwP4h5ap9DMddXs-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UVvk1TwP4h5ap9DMddXs-19" target="UVvk1TwP4h5ap9DMddXs-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -84,7 +87,7 @@
             <mxPoint x="230" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UVvk1TwP4h5ap9DMddXs-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UVvk1TwP4h5ap9DMddXs-24" target="UVvk1TwP4h5ap9DMddXs-10">
+        <mxCell id="UVvk1TwP4h5ap9DMddXs-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UVvk1TwP4h5ap9DMddXs-44" target="UVvk1TwP4h5ap9DMddXs-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="210" as="sourcePoint" />
             <mxPoint x="220" y="370" as="targetPoint" />
@@ -162,6 +165,9 @@
         </mxCell>
         <mxCell id="UVvk1TwP4h5ap9DMddXs-43" value="torch&lt;br&gt;program" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UVvk1TwP4h5ap9DMddXs-44" value="device bcast" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
