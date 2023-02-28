@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T16:21:27.570Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2m6KVAKxgWBdVg2u1HhZ" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T16:23:38.536Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gWG7pWI_j04fbDOtuOIg" version="20.8.23" type="github">
   <diagram name="Page-1" id="evR2WpcKhbSjpmel14RK">
     <mxGraphModel dx="2074" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
         <mxCell id="UVvk1TwP4h5ap9DMddXs-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="UVvk1TwP4h5ap9DMddXs-35" target="UVvk1TwP4h5ap9DMddXs-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UVvk1TwP4h5ap9DMddXs-35" value="Compute" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="UVvk1TwP4h5ap9DMddXs-35" value="Wait Communicate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UVvk1TwP4h5ap9DMddXs-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVvk1TwP4h5ap9DMddXs-31" target="UVvk1TwP4h5ap9DMddXs-8">
@@ -159,6 +159,9 @@
               <mxPoint x="620" y="500" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UVvk1TwP4h5ap9DMddXs-43" value="torch&lt;br&gt;program" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
