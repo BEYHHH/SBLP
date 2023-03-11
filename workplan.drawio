@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T15:59:22.195Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xL9Nmor46YR0OqbfKu-t" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-11T16:00:27.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xO1g8dzK1bVEDJ0ozinI" version="21.0.2" type="github">
   <diagram name="Page-1" id="ykmcjaAbNN_aZ3ureI38">
     <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="wojIMYaRAcvW_ZPA-Kni-8" value="足够数量的SWIB/AI device/6B主机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wojIMYaRAcvW_ZPA-Kni-9" value="TCCL 在 6B 上接入SWIB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="wojIMYaRAcvW_ZPA-Kni-9" value="TCCL 在 6B 上接入SWIB 并选择最终算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wojIMYaRAcvW_ZPA-Kni-10" value="P2P x86单节点实现&lt;br&gt;(scatter reduce)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
             <mxPoint x="400" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wojIMYaRAcvW_ZPA-Kni-14" value="TCCL 在 6B 上接入&lt;br&gt;P2P" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="wojIMYaRAcvW_ZPA-Kni-14" value="TCCL 在 6B 上接入&lt;br&gt;P2P 并选择最终算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="400" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wojIMYaRAcvW_ZPA-Kni-15" value="实现节点内的SWIB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
