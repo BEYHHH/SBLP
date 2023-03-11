@@ -1,17 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T08:38:28.343Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yL9AAG9Re1DNnjA2IJEn" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-11T15:41:36.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2W-cmfzZZWAcfFdj2_Mh" version="21.0.2" type="github">
   <diagram name="Page-1" id="ykmcjaAbNN_aZ3ureI38">
     <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xO9FXWd0AhFiIOjbUq09-1" value="SWIB/P2P方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xO9FXWd0AhFiIOjbUq09-1" value="SWIB方案设计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xO9FXWd0AhFiIOjbUq09-2" value="AI device/SWIB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xO9FXWd0AhFiIOjbUq09-2" value="SWIB&amp;nbsp; 硬件环境&lt;br&gt;需要device/SWIB&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="480" width="120" height="40" as="geometry" />
+        <mxCell id="xO9FXWd0AhFiIOjbUq09-3" value="P2P/Device" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xO9FXWd0AhFiIOjbUq09-3" value="P2P&amp;nbsp; 硬件环境&lt;br&gt;需要device/SWIB&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wojIMYaRAcvW_ZPA-Kni-2" value="P2P方案设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wojIMYaRAcvW_ZPA-Kni-3" value="SWIB通路测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wojIMYaRAcvW_ZPA-Kni-5" value="P2P AMD单节点实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wojIMYaRAcvW_ZPA-Kni-6" value="AI device/6B 主机/switch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wojIMYaRAcvW_ZPA-Kni-7" value="验证SWIB方案的可行性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wojIMYaRAcvW_ZPA-Kni-8" value="足够数量的SWIB/AI device/6B主机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wojIMYaRAcvW_ZPA-Kni-9" value="TCCL 在 6B 上接入SWIB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wojIMYaRAcvW_ZPA-Kni-10" value="P2P 6B单节点实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wojIMYaRAcvW_ZPA-Kni-11" value="AI device/6B 主机/switch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
