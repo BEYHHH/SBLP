@@ -1,32 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T10:15:44.257Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QvVFiJAtJGvO4QktlKHW" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T16:29:57.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LAv1xrYI6xCTiK33xcAw" version="21.0.10" type="github">
   <diagram name="Page-1" id="EsT10xzCCeYcYSkJDmvW">
     <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1WPlRurY3LXXzc_wm_BW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1WPlRurY3LXXzc_wm_BW-1" target="1WPlRurY3LXXzc_wm_BW-4">
+        <mxCell id="1WPlRurY3LXXzc_wm_BW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1WPlRurY3LXXzc_wm_BW-1" target="1WPlRurY3LXXzc_wm_BW-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1WPlRurY3LXXzc_wm_BW-1" value="TCCL&lt;br&gt;Device Allreduce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1WPlRurY3LXXzc_wm_BW-1" value="Stream launch Kernel&lt;br&gt;Device Allreduce" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1WPlRurY3LXXzc_wm_BW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1WPlRurY3LXXzc_wm_BW-2" target="1WPlRurY3LXXzc_wm_BW-1">
+        <mxCell id="1WPlRurY3LXXzc_wm_BW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1WPlRurY3LXXzc_wm_BW-2" target="1WPlRurY3LXXzc_wm_BW-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1WPlRurY3LXXzc_wm_BW-2" value="TCCL&lt;br&gt;Card Barrier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1WPlRurY3LXXzc_wm_BW-2" value="SdaaLaunchHost&lt;br&gt;Card Barrier" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1WPlRurY3LXXzc_wm_BW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1WPlRurY3LXXzc_wm_BW-4" target="1WPlRurY3LXXzc_wm_BW-5">
+        <mxCell id="1WPlRurY3LXXzc_wm_BW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1WPlRurY3LXXzc_wm_BW-4" target="1WPlRurY3LXXzc_wm_BW-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1WPlRurY3LXXzc_wm_BW-4" value="SdaaLaunchHost&lt;br&gt;Create Task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y7l1YH2GiNnYRPJC3hIs-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1WPlRurY3LXXzc_wm_BW-4" target="Y7l1YH2GiNnYRPJC3hIs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1WPlRurY3LXXzc_wm_BW-4" value="SdaaLaunchHost&lt;br&gt;Create Task" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1WPlRurY3LXXzc_wm_BW-5" value="Intra Host&lt;br&gt;Allreduce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1WPlRurY3LXXzc_wm_BW-5" value="Intra Host&lt;br&gt;Allreduce" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1WPlRurY3LXXzc_wm_BW-8" value="Intra Host&lt;br&gt;Allreduce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1WPlRurY3LXXzc_wm_BW-8" value="Intra Host&lt;br&gt;Allreduce" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7l1YH2GiNnYRPJC3hIs-1" value="SdaaLaunchHost&lt;br&gt;Wait Task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
