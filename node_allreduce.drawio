@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T20:17:04.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="75bHRblYcYq9v3AYfDIf" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-26T02:57:58.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aI3KBdid6QLQFuZuwIgP" version="21.0.10" type="github">
   <diagram name="Page-1" id="1yT_qVsCUbSXB6p4NJ6q">
     <mxGraphModel dx="2358" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="pMKNF-Byinm5wvQ30-ZL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pMKNF-Byinm5wvQ30-ZL-1" target="pMKNF-Byinm5wvQ30-ZL-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pMKNF-Byinm5wvQ30-ZL-1" value="SCATTER &lt;br&gt;ALLREDUCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="pMKNF-Byinm5wvQ30-ZL-1" value="INTRA-NODE&lt;br&gt;ALLREDUCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pMKNF-Byinm5wvQ30-ZL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pMKNF-Byinm5wvQ30-ZL-3" target="pMKNF-Byinm5wvQ30-ZL-7">
@@ -22,7 +22,7 @@
         <mxCell id="pMKNF-Byinm5wvQ30-ZL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pMKNF-Byinm5wvQ30-ZL-4" target="pMKNF-Byinm5wvQ30-ZL-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pMKNF-Byinm5wvQ30-ZL-4" value="HOST&lt;br&gt;ALLREDUCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="pMKNF-Byinm5wvQ30-ZL-4" value="INTER-HOST&lt;br&gt;ALLREDUCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="640" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pMKNF-Byinm5wvQ30-ZL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pMKNF-Byinm5wvQ30-ZL-6" target="pMKNF-Byinm5wvQ30-ZL-12">
