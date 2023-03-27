@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T07:08:38.285Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9s0i1zwhHM-Sh-PLcGuW" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T07:27:22.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="AfQJX3fPmQfa_vxqn914" version="21.0.10" type="github">
   <diagram name="Page-1" id="CfoDmrlTRuN8QncxeKQL">
     <mxGraphModel dx="2050" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="JbZJTvgXob_sXZLr-xso-3" value="tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1520" y="440" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JbZJTvgXob_sXZLr-xso-4" value="communication implement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="JbZJTvgXob_sXZLr-xso-4" value="communication part" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="520" y="440" width="920" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JbZJTvgXob_sXZLr-xso-5" value="LOG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
         <mxCell id="JbZJTvgXob_sXZLr-xso-13" value="intra-noda" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="880" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JbZJTvgXob_sXZLr-xso-14" value="Collective Opt Implement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="JbZJTvgXob_sXZLr-xso-14" value="Collective Communication Implement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="520" y="520" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JbZJTvgXob_sXZLr-xso-15" value="H2H" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
