@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T16:57:39.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OqOyXC4U0tNJBfrpZkix" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T16:59:56.128Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="J659S_CURLoi7iTG1Qqs" version="21.0.10" type="github">
   <diagram name="Page-1" id="CfoDmrlTRuN8QncxeKQL">
     <mxGraphModel dx="2050" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="670" y="580" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="JbZJTvgXob_sXZLr-xso-1" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;TCCL&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="100" y="320" width="1940" height="80" as="geometry" />
+          <mxGeometry y="320" width="2040" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JbZJTvgXob_sXZLr-xso-2" value="Init" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="100" y="440" width="340" height="40" as="geometry" />
+          <mxGeometry y="440" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JbZJTvgXob_sXZLr-xso-3" value="Tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1520" y="440" width="160" height="40" as="geometry" />
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="JbZJTvgXob_sXZLr-xso-55" value="auto&lt;br&gt;set" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JbZJTvgXob_sXZLr-xso-56" value="device connect" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry y="520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
