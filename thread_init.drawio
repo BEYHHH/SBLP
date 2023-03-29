@@ -1,17 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T16:47:36.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="I9UM_Bq7O_bxX1R_9nru" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T17:10:27.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0Iv-CQ1wqwKbr3_Mh6s5" version="21.0.10" type="github">
   <diagram name="Page-1" id="x4kQgdT6oJ1lOwnZ9Dfg">
-    <mxGraphModel dx="2358" dy="1304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2358" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JNIxIyOhx4qlFkNCqykB-1" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;THREAD INIT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="160" y="340" width="620" height="60" as="geometry" />
+          <mxGeometry x="240" y="340" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNIxIyOhx4qlFkNCqykB-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Create Thread for Cards&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="160" y="440" width="300" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JNIxIyOhx4qlFkNCqykB-3" value="Connect different&lt;br&gt;Thread by different path" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="240" y="520" width="60" height="120" as="geometry" />
+          <mxGeometry x="240" y="440" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JNIxIyOhx4qlFkNCqykB-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Create Thread for Nodes&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="300" height="40" as="geometry" />
@@ -23,7 +20,7 @@
           <mxGeometry x="560" y="520" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JNIxIyOhx4qlFkNCqykB-7" value="Split&lt;br&gt;Devices&lt;br&gt;By Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="160" y="520" width="60" height="120" as="geometry" />
+          <mxGeometry x="240" y="520" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JNIxIyOhx4qlFkNCqykB-8" value="Connect&lt;br&gt;different&lt;br&gt;nodes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="640" y="520" width="60" height="120" as="geometry" />
