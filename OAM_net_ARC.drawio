@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T17:13:10.642Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Nj0C7IP1ScpYmCxfDkYE" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T17:16:13.308Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XVKX3PTFklOR3cC7Rf-M" version="21.1.6" type="github">
   <diagram name="Page-1" id="OtXRAXoIm9ZtMbQRtGvd">
     <mxGraphModel dx="2358" dy="1304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
             <mxPoint x="1200" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVxG6DAl9B7WvxPyJ5Zm-52" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;IB SWITCH SHARP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="ZVxG6DAl9B7WvxPyJ5Zm-52" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;IB SWITCH SHARP（Allreduce OP）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="40" y="800" width="1640" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ee2Apzy48H1--FlRNFdk-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.11;entryY=-0.032;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZVxG6DAl9B7WvxPyJ5Zm-12" edge="1" target="ZVxG6DAl9B7WvxPyJ5Zm-52">
@@ -117,6 +117,11 @@
               <mxPoint x="580" y="480" />
             </Array>
             <mxPoint x="581" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Twh8z_F3GMSRVOYdn1zy-71" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PCIE 4.0&lt;br&gt;20G&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Twh8z_F3GMSRVOYdn1zy-7">
+          <mxGeometry x="-0.1733" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Twh8z_F3GMSRVOYdn1zy-8" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;SWITCH&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
@@ -215,10 +220,11 @@
             <mxPoint x="1499.83" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Twh8z_F3GMSRVOYdn1zy-51" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;20G/s&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.131;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="Twh8z_F3GMSRVOYdn1zy-51" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;20G/s&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.131;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry y="-8" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1058.5" y="680" as="sourcePoint" />
             <mxPoint x="1058.5" y="800" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Twh8z_F3GMSRVOYdn1zy-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -237,6 +243,11 @@
             </Array>
             <mxPoint x="1220.5" y="480" as="sourcePoint" />
             <mxPoint x="1219.5" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Twh8z_F3GMSRVOYdn1zy-72" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PCIE 4.0&lt;br&gt;32G&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Twh8z_F3GMSRVOYdn1zy-53">
+          <mxGeometry x="-0.0962" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Twh8z_F3GMSRVOYdn1zy-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Twh8z_F3GMSRVOYdn1zy-56" target="Twh8z_F3GMSRVOYdn1zy-57">
