@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T20:49:18.684Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.7" etag="ixuK31aDLZpgr4tpTMzt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T20:55:52.441Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="pJ2kfTw8cvTlX7-Ff7T7" version="21.1.7" type="github">
   <diagram name="Page-1" id="JWRb70k7MtE7x7qbNDJg">
-    <mxGraphModel>
+    <mxGraphModel dx="969" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PksEBeOSzjavPvpfyTG6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PksEBeOSzjavPvpfyTG6-1" target="PksEBeOSzjavPvpfyTG6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PksEBeOSzjavPvpfyTG6-1" value="A Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PksEBeOSzjavPvpfyTG6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PksEBeOSzjavPvpfyTG6-2" target="PksEBeOSzjavPvpfyTG6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PksEBeOSzjavPvpfyTG6-2" value="P2P Operation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PksEBeOSzjavPvpfyTG6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PksEBeOSzjavPvpfyTG6-4" target="PksEBeOSzjavPvpfyTG6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PksEBeOSzjavPvpfyTG6-4" value="P2P Operation/Host Barrier" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PksEBeOSzjavPvpfyTG6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PksEBeOSzjavPvpfyTG6-7" target="PksEBeOSzjavPvpfyTG6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PksEBeOSzjavPvpfyTG6-7" value="A Kernel Write" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PksEBeOSzjavPvpfyTG6-9" value="B kernel wait data &amp;amp; calculate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PksEBeOSzjavPvpfyTG6-11" value="B Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PksEBeOSzjavPvpfyTG6-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="530" as="sourcePoint" />
+            <mxPoint x="240" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
