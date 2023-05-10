@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T09:32:12.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="OWF3dHVZUMNeO4IitU10" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T09:40:09.647Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hyhPujMjhUOK67OAFI44" version="21.2.9" type="github">
   <diagram name="Page-1" id="olEW6aKmiYblKbCOD-LJ">
     <mxGraphModel dx="2358" dy="1304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,16 +11,16 @@
           <mxGeometry x="160" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgotYDSms5YgtTw1y6T8-4" value="Kernel Calculate 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="280" y="400" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BgotYDSms5YgtTw1y6T8-5" value="Send Part 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="400" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BgotYDSms5YgtTw1y6T8-6" value="Sync On Host" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="BgotYDSms5YgtTw1y6T8-5" value="Send Part 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="520" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BgotYDSms5YgtTw1y6T8-7" value="Kernel Calculate 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="BgotYDSms5YgtTw1y6T8-6" value="Sync On Host" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="640" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BgotYDSms5YgtTw1y6T8-7" value="Kernel Calculate 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="880" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgotYDSms5YgtTw1y6T8-8" value="Send Part 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="560" width="120" height="40" as="geometry" />
@@ -57,6 +57,12 @@
         </mxCell>
         <mxCell id="46xlTpAiEziDLenp-z02-11" value="Kernel Calculate 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="46xlTpAiEziDLenp-z02-12" value="Launch Device Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="46xlTpAiEziDLenp-z02-17" value="Launch Device Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="760" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
