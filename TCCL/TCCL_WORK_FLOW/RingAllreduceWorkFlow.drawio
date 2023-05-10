@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T07:51:55.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jZUBx4doo7yyutJeqbTl" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T08:01:03.271Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wNpu5ykDgkIF3Q4CoMYA" version="21.2.9" type="github">
   <diagram name="Page-1" id="kcoj7SUnzO-zrf9t933n">
     <mxGraphModel dx="2358" dy="1304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,53 +7,65 @@
         <mxCell id="iUeTFIqM4jbIZcsDObde-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUeTFIqM4jbIZcsDObde-1" target="iUeTFIqM4jbIZcsDObde-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iUeTFIqM4jbIZcsDObde-1" value="Sync With Card 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUeTFIqM4jbIZcsDObde-1" value="Sync With Card 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iUeTFIqM4jbIZcsDObde-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUeTFIqM4jbIZcsDObde-2" target="iUeTFIqM4jbIZcsDObde-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iUeTFIqM4jbIZcsDObde-2" value="Sync With Card n-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUeTFIqM4jbIZcsDObde-2" value="Sync With Card n-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iUeTFIqM4jbIZcsDObde-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUeTFIqM4jbIZcsDObde-3" target="iUeTFIqM4jbIZcsDObde-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iUeTFIqM4jbIZcsDObde-3" value="Launch Device Kernel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUeTFIqM4jbIZcsDObde-3" value="Launch Device Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iUeTFIqM4jbIZcsDObde-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUeTFIqM4jbIZcsDObde-4" target="iUeTFIqM4jbIZcsDObde-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iUeTFIqM4jbIZcsDObde-4" value="Send Part n-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUeTFIqM4jbIZcsDObde-4" value="Send Part n-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iUeTFIqM4jbIZcsDObde-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUeTFIqM4jbIZcsDObde-8" target="iUeTFIqM4jbIZcsDObde-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iUeTFIqM4jbIZcsDObde-8" value="Send Part 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUeTFIqM4jbIZcsDObde-8" value="Send Part 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iUeTFIqM4jbIZcsDObde-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUeTFIqM4jbIZcsDObde-10" target="iUeTFIqM4jbIZcsDObde-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iUeTFIqM4jbIZcsDObde-10" value="Kernel Calculate n - 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUeTFIqM4jbIZcsDObde-10" value="Kernel Calculate n - 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iUeTFIqM4jbIZcsDObde-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUeTFIqM4jbIZcsDObde-13" target="iUeTFIqM4jbIZcsDObde-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iUeTFIqM4jbIZcsDObde-13" value="Sync With Card 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUeTFIqM4jbIZcsDObde-13" value="Sync With Card 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iUeTFIqM4jbIZcsDObde-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUeTFIqM4jbIZcsDObde-15" target="iUeTFIqM4jbIZcsDObde-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iUeTFIqM4jbIZcsDObde-15" value="Sync With Card n-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUeTFIqM4jbIZcsDObde-15" value="Sync With Card n-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iUeTFIqM4jbIZcsDObde-16" value="Launch Device Kernel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUeTFIqM4jbIZcsDObde-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUeTFIqM4jbIZcsDObde-16" target="iUeTFIqM4jbIZcsDObde-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iUeTFIqM4jbIZcsDObde-16" value="Launch Device Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUeTFIqM4jbIZcsDObde-19" value="Send Part n-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUeTFIqM4jbIZcsDObde-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUeTFIqM4jbIZcsDObde-21" target="iUeTFIqM4jbIZcsDObde-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iUeTFIqM4jbIZcsDObde-21" value="Kernel Calculate n - 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
