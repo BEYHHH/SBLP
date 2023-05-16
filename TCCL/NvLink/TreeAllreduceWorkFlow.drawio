@@ -1,9 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T19:13:26.080Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.3.2" etag="AZxsRWIVg3RNpDBCv01W" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T19:19:26.585Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="E_KrqtVFIz8gVHrI14qN" version="21.3.2" type="github">
   <diagram name="Page-1" id="l4n5BHPD1CxgrVOOq63T">
-    <mxGraphModel>
+    <mxGraphModel dx="2358" dy="1304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1fhYYoBiJhl-3eB0wsII-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-2" value="Sync With Card 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1fhYYoBiJhl-3eB0wsII-5" target="1fhYYoBiJhl-3eB0wsII-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-5" value="Send To 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1fhYYoBiJhl-3eB0wsII-6" target="1fhYYoBiJhl-3eB0wsII-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-6" value="Send To 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1fhYYoBiJhl-3eB0wsII-8" target="1fhYYoBiJhl-3eB0wsII-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-8" value="Sync With Card 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1fhYYoBiJhl-3eB0wsII-10" target="1fhYYoBiJhl-3eB0wsII-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-10" value="Sync With Card 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1fhYYoBiJhl-3eB0wsII-12" target="1fhYYoBiJhl-3eB0wsII-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-12" value="Send To 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-14" value="Device Allreduce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
