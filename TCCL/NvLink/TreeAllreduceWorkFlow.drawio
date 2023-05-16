@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T19:19:26.585Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="E_KrqtVFIz8gVHrI14qN" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T19:20:12.585Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="1zqodgatDSdxztQ1U492" version="21.3.2" type="github">
   <diagram name="Page-1" id="l4n5BHPD1CxgrVOOq63T">
     <mxGraphModel dx="2358" dy="1304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,6 +44,9 @@
         </mxCell>
         <mxCell id="1fhYYoBiJhl-3eB0wsII-14" value="Device Allreduce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1fhYYoBiJhl-3eB0wsII-16" value="Card 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="58" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
