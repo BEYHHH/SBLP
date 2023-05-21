@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T16:05:55.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9vCDOXYZuwjuuVubxFDL" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T16:07:11.928Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="LwOLsRzYDqEBXfgi_493" version="21.3.2" type="github">
   <diagram name="Page-1" id="BWnEMjbgls0k7jVrVnhc">
     <mxGraphModel dx="2358" dy="1304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -179,6 +179,9 @@
         <mxCell id="cjjPnmy2dA-vPYh_nzkK-61" value="Memory Check Flage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="cjjPnmy2dA-vPYh_nzkK-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjjPnmy2dA-vPYh_nzkK-62" target="cjjPnmy2dA-vPYh_nzkK-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cjjPnmy2dA-vPYh_nzkK-62" value="Device Allreduce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="960" width="120" height="40" as="geometry" />
         </mxCell>
@@ -200,6 +203,9 @@
         <mxCell id="cjjPnmy2dA-vPYh_nzkK-68" value="Memory Check Flage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="1040" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="cjjPnmy2dA-vPYh_nzkK-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjjPnmy2dA-vPYh_nzkK-69" target="cjjPnmy2dA-vPYh_nzkK-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cjjPnmy2dA-vPYh_nzkK-69" value="Device Allreduce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
@@ -207,19 +213,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cjjPnmy2dA-vPYh_nzkK-71" value="Write P2P" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1440" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cjjPnmy2dA-vPYh_nzkK-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="cjjPnmy2dA-vPYh_nzkK-73" target="cjjPnmy2dA-vPYh_nzkK-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cjjPnmy2dA-vPYh_nzkK-73" value="Read P2P" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1520" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cjjPnmy2dA-vPYh_nzkK-74" value="Write P2P" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="1600" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="cjjPnmy2dA-vPYh_nzkK-74" value="Write P2P" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1680" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="cjjPnmy2dA-vPYh_nzkK-75" value="Memory Check Flage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1680" width="120" height="40" as="geometry" />
+          <mxGeometry x="640" y="1440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cjjPnmy2dA-vPYh_nzkK-76" value="Device Reduce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="1760" width="120" height="40" as="geometry" />
