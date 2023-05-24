@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T16:38:41.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1ZTu5VkGqOno0SQY5Gkd" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T08:57:48.356Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="I8Z-ljBQSPN0iRWGQwI0" version="21.3.2" type="github">
   <diagram name="Page-1" id="uNbcob3fMyuhYD2jePh7">
-    <mxGraphModel dx="2358" dy="1304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="902" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
         <mxCell id="12-pQkPCJ5uMw9uzVMLO-26" value="Allreduce&lt;br&gt;B" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="510" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="12-pQkPCJ5uMw9uzVMLO-27" value="Allreduce&lt;br&gt;B" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="12-pQkPCJ5uMw9uzVMLO-27" value="Allreduce&lt;br&gt;A" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="310" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="12-pQkPCJ5uMw9uzVMLO-28" value="Card 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
