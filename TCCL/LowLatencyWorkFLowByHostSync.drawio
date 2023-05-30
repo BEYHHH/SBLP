@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T17:34:00.973Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9OgQLV6Z96kSJkyV9iF4" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T17:37:23.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="OXmG4Kl3Ek8tql68Sqej" version="21.3.4" type="github">
   <diagram name="Page-1" id="34WbG06q4X-tlrVfDNdB">
     <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="yayjriu8w-TX4j0VbP-U-48" value="Device Reduce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="600" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yayjriu8w-TX4j0VbP-U-49" value="Next Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="yayjriu8w-TX4j0VbP-U-49" value="Next Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="400" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yayjriu8w-TX4j0VbP-U-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yayjriu8w-TX4j0VbP-U-50" target="yayjriu8w-TX4j0VbP-U-51">
