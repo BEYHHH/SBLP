@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T08:07:52.011Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HqNF60KtOFGbZZT95DjY" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T08:08:37.321Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="B2V72ZSZ93SgMr3CdECF" version="21.3.7" type="github">
   <diagram name="Page-1" id="y91M_qhP0_XLDetESHHj">
     <mxGraphModel dx="1841" dy="2135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -299,7 +299,7 @@
             <mxPoint x="2360" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rMuPhSQedwrYlNpY_E_n-65" value="&lt;h1&gt;硬件需要&lt;/h1&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;CTX 6 IB&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;800 + 1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;40 port switch&amp;nbsp; &amp;nbsp; &amp;nbsp; 60&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;200G Line&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1600&lt;br&gt;server 1+ Line&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="rMuPhSQedwrYlNpY_E_n-65" value="&lt;h1&gt;硬件需要&lt;/h1&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;CTX 6 IB&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;800 + 1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;40 port switch&amp;nbsp; &amp;nbsp; &amp;nbsp; 60&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;25G Line&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1600&lt;br&gt;server 1+ Line&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2050" y="170" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="rMuPhSQedwrYlNpY_E_n-66" value="NODE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
