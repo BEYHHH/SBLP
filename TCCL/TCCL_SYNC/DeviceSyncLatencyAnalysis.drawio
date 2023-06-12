@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T02:25:28.492Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gGn5Rv1eEoVR-p7uLxSZ" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T02:33:14.332Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7_nth7ls9U9z0R1kh3My" version="21.3.8" type="github">
   <diagram name="Page-1" id="VB5cN_S-AMe07vz8CGvR">
-    <mxGraphModel dx="3016" dy="1218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1771" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,9 +133,6 @@
         <mxCell id="DegDiDHXpYRWOmlaxZdc-46" value="Device Task List&lt;br&gt;Latency + Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="400" y="920" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-48" target="DegDiDHXpYRWOmlaxZdc-53" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-48" value="Stream Task &lt;br&gt;Finish Singal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="1000" width="200" height="40" as="geometry" />
         </mxCell>
@@ -152,7 +149,7 @@
           <mxGeometry x="-240" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-53" value="Get the Finish Signal From Device" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1120" width="200" height="40" as="geometry" />
+          <mxGeometry x="720" y="1120" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DegDiDHXpYRWOmlaxZdc-22" target="DegDiDHXpYRWOmlaxZdc-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -167,40 +164,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-58" value="Data On PCIE &amp;amp; &lt;br&gt;MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="720" y="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="1120" y="240" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-60" value="max{date on PCIE, MPE Stream Finish Latency}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="980" y="200" width="160" height="60" as="geometry" />
+          <mxGeometry x="1380" y="240" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-61" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="720" y="320" width="200" height="40" as="geometry" />
+          <mxGeometry x="1120" y="360" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-62" value="MPE Time &lt;br&gt;On Stream List&lt;br&gt;2.5us" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="1400" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-63" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="720" y="360" width="200" height="40" as="geometry" />
+          <mxGeometry x="1120" y="400" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-64" value="P2P Write" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="720" y="480" width="200" height="40" as="geometry" />
+          <mxGeometry x="1120" y="520" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-65" value="MPE Time &lt;br&gt;On P2P OP&lt;br&gt;5us~7us" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="1400" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-66" value="Memory Check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="720" y="640" width="200" height="40" as="geometry" />
+          <mxGeometry x="1120" y="680" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-67" value="MPE Time &lt;br&gt;For New Op&lt;br&gt;Xus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="1400" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-69" value="MPE Time &lt;br&gt;On P2P OP &lt;br&gt;5us" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="800" width="120" height="40" as="geometry" />
+          <mxGeometry x="1400" y="840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-71" value="P2P Read Lantency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="720" y="520" width="200" height="40" as="geometry" />
+          <mxGeometry x="1120" y="560" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DegDiDHXpYRWOmlaxZdc-73" value="Device Task List&lt;br&gt;Latency + Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="720" y="800" width="200" height="40" as="geometry" />
+          <mxGeometry x="1120" y="840" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UWGrNj0p_6O4MV1hpWf9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWGrNj0p_6O4MV1hpWf9-1" target="UWGrNj0p_6O4MV1hpWf9-3">
           <mxGeometry relative="1" as="geometry" />
@@ -248,7 +245,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UWGrNj0p_6O4MV1hpWf9-14" value="Memory Flag Set" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="720" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWGrNj0p_6O4MV1hpWf9-16" target="UWGrNj0p_6O4MV1hpWf9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-16" value="Memory Flag Set" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="720" y="680" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWGrNj0p_6O4MV1hpWf9-18" target="UWGrNj0p_6O4MV1hpWf9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-18" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="600" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWGrNj0p_6O4MV1hpWf9-20" target="UWGrNj0p_6O4MV1hpWf9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-20" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="760" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWGrNj0p_6O4MV1hpWf9-22" target="UWGrNj0p_6O4MV1hpWf9-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-22" value="Memory Check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="920" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWGrNj0p_6O4MV1hpWf9-24" target="UWGrNj0p_6O4MV1hpWf9-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-24" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="840" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWGrNj0p_6O4MV1hpWf9-25" target="DegDiDHXpYRWOmlaxZdc-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-25" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1000" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-48" target="UWGrNj0p_6O4MV1hpWf9-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="700" as="sourcePoint" />
+            <mxPoint x="700" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="1080" />
+              <mxPoint x="660" y="1080" />
+              <mxPoint x="660" y="560" />
+              <mxPoint x="820" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
