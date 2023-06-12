@@ -1,160 +1,160 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T20:19:22.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WF_ViOwwaUwu1eHoRG3U" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T02:22:22.437Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mng3rZtNomRqmu5cb2eN" version="21.3.8" type="github">
   <diagram name="Page-1" id="VB5cN_S-AMe07vz8CGvR">
-    <mxGraphModel dx="1841" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1586" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-1" target="DegDiDHXpYRWOmlaxZdc-2">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-1" target="DegDiDHXpYRWOmlaxZdc-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-1" value="Device Task List&lt;br&gt;Latency + Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-1" value="Device Task List&lt;br&gt;Latency + Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="80" y="200" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-2" target="DegDiDHXpYRWOmlaxZdc-4">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-2" target="DegDiDHXpYRWOmlaxZdc-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-2" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-2" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-4" target="DegDiDHXpYRWOmlaxZdc-6">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-4" target="DegDiDHXpYRWOmlaxZdc-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-4" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-4" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="360" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-6" target="DegDiDHXpYRWOmlaxZdc-7">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-6" target="DegDiDHXpYRWOmlaxZdc-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-6" value="P2P Write" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-6" value="P2P Write" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="80" y="440" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-7" target="DegDiDHXpYRWOmlaxZdc-12">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-7" target="DegDiDHXpYRWOmlaxZdc-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-7" value="Data On PCIE &amp;amp; &lt;br&gt;MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-7" value="Data On PCIE &amp;amp; &lt;br&gt;MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="80" y="520" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-10" target="DegDiDHXpYRWOmlaxZdc-16">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-10" target="DegDiDHXpYRWOmlaxZdc-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-10" value="Memory Check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-10" value="Memory Check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="80" y="680" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-11" target="DegDiDHXpYRWOmlaxZdc-15">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-11" target="DegDiDHXpYRWOmlaxZdc-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-11" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-11" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="840" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-12" target="DegDiDHXpYRWOmlaxZdc-10">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-12" target="DegDiDHXpYRWOmlaxZdc-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-12" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-12" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="600" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-15" target="DegDiDHXpYRWOmlaxZdc-22">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-15" target="DegDiDHXpYRWOmlaxZdc-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-15" value="P2P Read Lantency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-15" value="P2P Read Lantency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="80" y="920" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-16" target="DegDiDHXpYRWOmlaxZdc-11">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-16" target="DegDiDHXpYRWOmlaxZdc-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-16" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-16" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="760" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-20" target="DegDiDHXpYRWOmlaxZdc-1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-20" target="DegDiDHXpYRWOmlaxZdc-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-20" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-20" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-22" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-22" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="1000" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-29" target="DegDiDHXpYRWOmlaxZdc-31">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-29" target="DegDiDHXpYRWOmlaxZdc-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-29" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-29" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="120" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-31" target="DegDiDHXpYRWOmlaxZdc-33">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-31" target="DegDiDHXpYRWOmlaxZdc-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-31" value="P2P Write" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-31" value="P2P Write" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="400" y="200" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-33" target="DegDiDHXpYRWOmlaxZdc-39">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-33" target="DegDiDHXpYRWOmlaxZdc-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-33" value="Data On PCIE &amp;amp; &lt;br&gt;MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-33" value="Data On PCIE &amp;amp; &lt;br&gt;MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="400" y="280" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-35" target="DegDiDHXpYRWOmlaxZdc-43">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-35" target="DegDiDHXpYRWOmlaxZdc-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-35" value="Memory Check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-35" value="Memory Check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="400" y="440" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-37" target="DegDiDHXpYRWOmlaxZdc-41">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-37" target="DegDiDHXpYRWOmlaxZdc-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-37" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-37" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="600" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-39" target="DegDiDHXpYRWOmlaxZdc-35">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-39" target="DegDiDHXpYRWOmlaxZdc-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-39" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-39" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="360" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-41" target="DegDiDHXpYRWOmlaxZdc-44">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-41" target="DegDiDHXpYRWOmlaxZdc-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-41" value="P2P Read Lantency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-41" value="P2P Read Lantency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="400" y="680" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-43" target="DegDiDHXpYRWOmlaxZdc-37">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-43" target="DegDiDHXpYRWOmlaxZdc-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-43" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-43" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="520" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-44" target="DegDiDHXpYRWOmlaxZdc-51">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-44" target="DegDiDHXpYRWOmlaxZdc-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-44" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-44" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="760" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-46" target="DegDiDHXpYRWOmlaxZdc-48">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-46" target="DegDiDHXpYRWOmlaxZdc-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-46" value="Device Task List&lt;br&gt;Latency + Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-46" value="Device Task List&lt;br&gt;Latency + Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="400" y="920" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-48" target="DegDiDHXpYRWOmlaxZdc-53">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-48" target="DegDiDHXpYRWOmlaxZdc-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-48" value="Stream Task &lt;br&gt;Finish Singal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-48" value="Stream Task &lt;br&gt;Finish Singal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="1000" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-51" target="DegDiDHXpYRWOmlaxZdc-46">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DegDiDHXpYRWOmlaxZdc-51" target="DegDiDHXpYRWOmlaxZdc-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-51" value="MPE New Stream Task" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-51" value="MPE New Stream Task" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="840" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-52" target="DegDiDHXpYRWOmlaxZdc-20">
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-52" target="UWGrNj0p_6O4MV1hpWf9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-52" value="Send Task To Stream List&lt;br&gt;From Host" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" width="200" height="40" as="geometry" />
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-52" value="Send Task To Stream List&lt;br&gt;From Host" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-240" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-53" value="Get the Finish Signal From Device" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-53" value="Get the Finish Signal From Device" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="400" y="1120" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DegDiDHXpYRWOmlaxZdc-22" target="DegDiDHXpYRWOmlaxZdc-29">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DegDiDHXpYRWOmlaxZdc-22" target="DegDiDHXpYRWOmlaxZdc-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="740" as="sourcePoint" />
             <mxPoint x="360" y="260" as="targetPoint" />
@@ -166,41 +166,86 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-58" value="Data On PCIE &amp;amp; &lt;br&gt;MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-58" value="Data On PCIE &amp;amp; &lt;br&gt;MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="720" y="200" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-60" value="max{date on PCIE, MPE Stream Finish Latency}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-60" value="max{date on PCIE, MPE Stream Finish Latency}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="980" y="200" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-61" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-61" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="720" y="320" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-62" value="MPE Time &lt;br&gt;On Stream List&lt;br&gt;2.5us" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-62" value="MPE Time &lt;br&gt;On Stream List&lt;br&gt;2.5us" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-63" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-63" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="720" y="360" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-64" value="P2P Write" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-64" value="P2P Write" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="720" y="480" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-65" value="MPE Time &lt;br&gt;On P2P OP&lt;br&gt;5us~7us" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-65" value="MPE Time &lt;br&gt;On P2P OP&lt;br&gt;5us~7us" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-66" value="Memory Check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-66" value="Memory Check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="720" y="640" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-67" value="MPE Time &lt;br&gt;For New Op&lt;br&gt;Xus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-67" value="MPE Time &lt;br&gt;For New Op&lt;br&gt;Xus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-69" value="MPE Time &lt;br&gt;On P2P OP &lt;br&gt;5us" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-69" value="MPE Time &lt;br&gt;On P2P OP &lt;br&gt;5us" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-71" value="P2P Read Lantency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-71" value="P2P Read Lantency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="720" y="520" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DegDiDHXpYRWOmlaxZdc-73" value="Device Task List&lt;br&gt;Latency + Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="DegDiDHXpYRWOmlaxZdc-73" value="Device Task List&lt;br&gt;Latency + Kernel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="720" y="760" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWGrNj0p_6O4MV1hpWf9-1" target="UWGrNj0p_6O4MV1hpWf9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-1" value="Memory Flag Set" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWGrNj0p_6O4MV1hpWf9-2" target="UWGrNj0p_6O4MV1hpWf9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-2" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWGrNj0p_6O4MV1hpWf9-3" target="UWGrNj0p_6O4MV1hpWf9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-3" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWGrNj0p_6O4MV1hpWf9-4" target="UWGrNj0p_6O4MV1hpWf9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-4" value="Memory Check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWGrNj0p_6O4MV1hpWf9-5" target="UWGrNj0p_6O4MV1hpWf9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-5" value="MPE New Stream Task&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="360" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-6" value="MPE Stream Finish Latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="520" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UWGrNj0p_6O4MV1hpWf9-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UWGrNj0p_6O4MV1hpWf9-6" target="DegDiDHXpYRWOmlaxZdc-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="320" as="sourcePoint" />
+            <mxPoint x="410" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-140" y="600" />
+              <mxPoint x="20" y="600" />
+              <mxPoint x="20" y="80" />
+              <mxPoint x="180" y="80" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
