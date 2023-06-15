@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T10:01:38.499Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5yQwMYe0zk_naY1Y5OVx" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T10:07:51.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1uZ_oMHL6yqMKR1XJB7g" version="21.3.8" type="github">
   <diagram name="Page-1" id="Mw5EDIEJUwidYdBa6SzD">
     <mxGraphModel dx="1938" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1035,20 +1035,20 @@
             <mxPoint x="2090" y="2050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vtRSRkSAmiNlVq3cGCPo-206" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Line with 4 25G/s&lt;/font&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.308;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="vtRSRkSAmiNlVq3cGCPo-206" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Line with 4 50G/s&lt;/font&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.308;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry x="-0.1429" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3195" y="1800" as="sourcePoint" />
             <mxPoint x="2880" y="1800" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vtRSRkSAmiNlVq3cGCPo-207" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Line with 2 25G/s&lt;/font&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+        <mxCell id="vtRSRkSAmiNlVq3cGCPo-207" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Line with 2 50G/s&lt;/font&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;dashed=1;dashPattern=8 8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2880" y="1880" as="sourcePoint" />
             <mxPoint x="3190" y="1880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vtRSRkSAmiNlVq3cGCPo-208" value="&lt;h1&gt;硬件需要&lt;/h1&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;CTX 7 IB&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;800 + 1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;128 port switch&amp;nbsp; &amp;nbsp; 42&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;25G Line&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1600&lt;br&gt;server 1+ Line&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vtRSRkSAmiNlVq3cGCPo-208" value="&lt;h1&gt;硬件需要&lt;/h1&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;CTX 7 IB&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;800 + 1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;64 port switch&amp;nbsp; &amp;nbsp; &amp;nbsp; 42&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;25G Line&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1600&lt;br&gt;server 1+ Line&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2880" y="1960" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vtRSRkSAmiNlVq3cGCPo-210" value="NODE 7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
