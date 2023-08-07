@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T07:25:56.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RoDaBvC6YrodYV79RsRM" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T07:28:12.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Xamo4crSRVBnQMu0JNiG" version="21.6.6" type="github">
   <diagram name="Page-1" id="_yEaU14FUTpL-RpIBZ9i">
     <mxGraphModel dx="1221" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="11_PIpMC9LsqY7fFcfDZ-14" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; Pipline Z = S&lt;/div&gt;&lt;div&gt;Device PCIE X &amp;gt;= Z * 2（n - 1）/ n + S * 1/n&lt;/div&gt;&lt;div&gt;IB PCIE.&amp;nbsp; &amp;nbsp; V &amp;gt;= S&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;S. = 4/7 X&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="320" width="570" height="80" as="geometry" />
+          <mxGeometry x="70" y="320" width="570" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
