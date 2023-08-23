@@ -1,70 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T07:28:12.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Xamo4crSRVBnQMu0JNiG" version="21.6.6" type="github">
-  <diagram name="Page-1" id="_yEaU14FUTpL-RpIBZ9i">
-    <mxGraphModel dx="1221" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-08-23T08:06:28.585Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.8" etag="654OpRFe7dPZ-E8mjkLR" type="github">
+  <diagram name="Page-1" id="o-YjU9TNyXKeBXpzGmhl">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-1" value="AI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="40" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-2" value="AI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="360" y="200" width="40" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-3" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;AI&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="480" y="200" width="40" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-4" value="AI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="600" y="200" width="40" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-5" value="IB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="40" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="11_PIpMC9LsqY7fFcfDZ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="180" as="sourcePoint" />
-            <mxPoint x="260" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="11_PIpMC9LsqY7fFcfDZ-6">
-          <mxGeometry x="0.2204" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-7" value="PCIE. SWITCH&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="40" width="640" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="379.5" y="200" as="sourcePoint" />
-            <mxPoint x="379.5" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="499.5" y="200" as="sourcePoint" />
-            <mxPoint x="499.5" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="200" as="sourcePoint" />
-            <mxPoint x="620" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="99.5" y="200" as="sourcePoint" />
-            <mxPoint x="99.5" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-12" value="Z" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="11_PIpMC9LsqY7fFcfDZ-11">
-          <mxGeometry x="0.2454" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="11_PIpMC9LsqY7fFcfDZ-14" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; Pipline Z = S&lt;/div&gt;&lt;div&gt;Device PCIE X &amp;gt;= Z * 2（n - 1）/ n + S * 1/n&lt;/div&gt;&lt;div&gt;IB PCIE.&amp;nbsp; &amp;nbsp; V &amp;gt;= S&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;S. = 4/7 X&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="320" width="570" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
