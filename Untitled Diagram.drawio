@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T08:10:54.013Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7OsRB2likRKTHIO47dRj" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T08:12:21.636Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="lGV_U3vzD3OnuJTI-gyk" version="21.6.8" type="github">
   <diagram name="Page-1" id="o-YjU9TNyXKeBXpzGmhl">
     <mxGraphModel dx="1193" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,8 +61,8 @@
         <mxCell id="5uJH5khLb6-c7GbsjUA8-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1520" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5uJH5khLb6-c7GbsjUA8-22" value="8 * 20 = 160 G&lt;br&gt;100G" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="5uJH5khLb6-c7GbsjUA8-22" value="inter node 8 * 20 = 160 G&lt;br&gt;intra node between allreduce 100G&lt;br&gt;&lt;br&gt;&lt;br&gt;reduce scatter&lt;br&gt;allreduce between Card&lt;br&gt;allgather" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="210" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
