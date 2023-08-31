@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T06:54:56.972Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZWmj1izuhzqXbLcnkXEK" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T06:55:47.770Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ihfxid1EWNXnYs1msUOi" version="21.6.9" type="github">
   <diagram name="Page-1" id="izLy7EPjRr3NcosqGQrw">
     <mxGraphModel dx="2924" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,31 +7,31 @@
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-1" target="YWgQtN8wQ2q7qO5Ea54q-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-1" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-1" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-2" target="YWgQtN8wQ2q7qO5Ea54q-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-2" value="Device 0&lt;br&gt;allreduce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-2" value="Device 0&lt;br&gt;allreduce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-3" target="YWgQtN8wQ2q7qO5Ea54q-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-3" value="Device 0&lt;br&gt;P2P data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-3" value="Device 0&lt;br&gt;P2P data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-4" target="YWgQtN8wQ2q7qO5Ea54q-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-4" value="Device 0&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;P2P flag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-4" value="Device 0&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;P2P flag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-5" target="YWgQtN8wQ2q7qO5Ea54q-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-5" value="Device 0&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;P2P data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-5" value="Device 0&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;P2P data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-6">
@@ -39,64 +39,64 @@
             <mxPoint x="180" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-6" value="Device 0&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;P2P flag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-6" value="Device 0&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;P2P flag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-14" target="YWgQtN8wQ2q7qO5Ea54q-1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-14" target="YWgQtN8wQ2q7qO5Ea54q-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-14" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-14" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-15" target="YWgQtN8wQ2q7qO5Ea54q-14">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-15" target="YWgQtN8wQ2q7qO5Ea54q-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-15" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-15" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-16" target="YWgQtN8wQ2q7qO5Ea54q-1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-16" target="YWgQtN8wQ2q7qO5Ea54q-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-16" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-16" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-80" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-20" target="YWgQtN8wQ2q7qO5Ea54q-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-20" value="Device 0&lt;br&gt;Memory Check" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-20" value="Device 0&lt;br&gt;Memory Check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-32" target="YWgQtN8wQ2q7qO5Ea54q-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-32" value="Device 0&lt;br&gt;allreduce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-32" value="Device 0&lt;br&gt;allreduce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="120" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-33" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-33" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-35" target="YWgQtN8wQ2q7qO5Ea54q-33">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-35" target="YWgQtN8wQ2q7qO5Ea54q-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-35" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-35" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="320" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-37" target="YWgQtN8wQ2q7qO5Ea54q-35">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-37" target="YWgQtN8wQ2q7qO5Ea54q-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-37" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-37" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-39" target="YWgQtN8wQ2q7qO5Ea54q-33">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-39" target="YWgQtN8wQ2q7qO5Ea54q-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-39" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-39" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-40" target="YWgQtN8wQ2q7qO5Ea54q-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-40" value="Device 0&lt;br&gt;Memory Check" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-40" value="Device 0&lt;br&gt;Memory Check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="1040" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
