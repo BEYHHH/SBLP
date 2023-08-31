@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T06:55:47.770Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ihfxid1EWNXnYs1msUOi" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T07:00:00.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="At6CExjsWBtEEV71DZOw" version="21.6.9" type="github">
   <diagram name="Page-1" id="izLy7EPjRr3NcosqGQrw">
-    <mxGraphModel dx="2924" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,12 +54,6 @@
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-15" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-16" target="YWgQtN8wQ2q7qO5Ea54q-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-16" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="200" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-20" target="YWgQtN8wQ2q7qO5Ea54q-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -87,17 +81,35 @@
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-37" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-39" target="YWgQtN8wQ2q7qO5Ea54q-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-39" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1280" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-40" target="YWgQtN8wQ2q7qO5Ea54q-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YWgQtN8wQ2q7qO5Ea54q-40" value="Device 0&lt;br&gt;Memory Check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-42" target="YWgQtN8wQ2q7qO5Ea54q-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-42" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YWgQtN8wQ2q7qO5Ea54q-44" target="YWgQtN8wQ2q7qO5Ea54q-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-44" value="Intra Card Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-47" value="Device 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-48" value="Device 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-49" value="Device 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YWgQtN8wQ2q7qO5Ea54q-50" value="Device 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
