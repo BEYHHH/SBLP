@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T01:39:52.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8nINoiD9uhsV4f7RRjY2" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T01:45:50.652Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7OtEKsoY1c4g6Fp-V8LM" version="21.7.5" type="github">
   <diagram name="Page-1" id="HfpOXpwQql2t94BeDLET">
     <mxGraphModel dx="2074" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,19 +7,19 @@
         <mxCell id="Exaalt7El9sxLW4z2eUL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Exaalt7El9sxLW4z2eUL-1" target="Exaalt7El9sxLW4z2eUL-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Exaalt7El9sxLW4z2eUL-1" value="P2P task&lt;br&gt;with stream ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Exaalt7El9sxLW4z2eUL-1" value="P2P task&lt;br&gt;with stream ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Exaalt7El9sxLW4z2eUL-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="760" as="sourcePoint" />
+            <mxPoint x="280" y="1040" as="sourcePoint" />
             <mxPoint x="280" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Exaalt7El9sxLW4z2eUL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Exaalt7El9sxLW4z2eUL-3" target="Exaalt7El9sxLW4z2eUL-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Exaalt7El9sxLW4z2eUL-3" value="P2P task&lt;br&gt;with stream ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Exaalt7El9sxLW4z2eUL-3" value="P2P task&lt;br&gt;with stream ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Exaalt7El9sxLW4z2eUL-4" value="tc BUS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -31,25 +31,34 @@
         <mxCell id="Exaalt7El9sxLW4z2eUL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Exaalt7El9sxLW4z2eUL-6" target="Exaalt7El9sxLW4z2eUL-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Exaalt7El9sxLW4z2eUL-6" value="check the channel&lt;br&gt;used last time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Exaalt7El9sxLW4z2eUL-6" value="check the channel&lt;br&gt;used last time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Exaalt7El9sxLW4z2eUL-8" value="Find available Channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Exaalt7El9sxLW4z2eUL-8" value="Find available Channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Exaalt7El9sxLW4z2eUL-10" value="check the channel&lt;br&gt;used last time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Exaalt7El9sxLW4z2eUL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Exaalt7El9sxLW4z2eUL-10" target="Exaalt7El9sxLW4z2eUL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Exaalt7El9sxLW4z2eUL-10" value="check the channel&lt;br&gt;used last time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Exaalt7El9sxLW4z2eUL-12" value="get the config &lt;br&gt;from HBM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Exaalt7El9sxLW4z2eUL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Exaalt7El9sxLW4z2eUL-12" target="Exaalt7El9sxLW4z2eUL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Exaalt7El9sxLW4z2eUL-12" value="get the config &lt;br&gt;from HBM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="480" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Exaalt7El9sxLW4z2eUL-13" value="Config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Exaalt7El9sxLW4z2eUL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Exaalt7El9sxLW4z2eUL-13" target="Exaalt7El9sxLW4z2eUL-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Exaalt7El9sxLW4z2eUL-13" value="Config" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="320" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Exaalt7El9sxLW4z2eUL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Exaalt7El9sxLW4z2eUL-14" target="Exaalt7El9sxLW4z2eUL-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Exaalt7El9sxLW4z2eUL-14" value="compare config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Exaalt7El9sxLW4z2eUL-14" value="compare config" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="480" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Exaalt7El9sxLW4z2eUL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Exaalt7El9sxLW4z2eUL-8" target="Exaalt7El9sxLW4z2eUL-13">
@@ -57,6 +66,30 @@
             <mxPoint x="390" y="370" as="sourcePoint" />
             <mxPoint x="390" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Exaalt7El9sxLW4z2eUL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Exaalt7El9sxLW4z2eUL-19" target="Exaalt7El9sxLW4z2eUL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Exaalt7El9sxLW4z2eUL-19" value="door bell" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Exaalt7El9sxLW4z2eUL-20" value="check flag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Exaalt7El9sxLW4z2eUL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Exaalt7El9sxLW4z2eUL-21" target="Exaalt7El9sxLW4z2eUL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Exaalt7El9sxLW4z2eUL-21" value="Keep the config&lt;br&gt;information" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Exaalt7El9sxLW4z2eUL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Exaalt7El9sxLW4z2eUL-24" target="Exaalt7El9sxLW4z2eUL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Exaalt7El9sxLW4z2eUL-24" value="keep the &lt;br&gt;stream &amp;amp; channel info" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Exaalt7El9sxLW4z2eUL-28" value="stream&lt;br&gt;act" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="143" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
