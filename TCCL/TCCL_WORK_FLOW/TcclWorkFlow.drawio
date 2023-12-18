@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T08:20:31.730Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DLr4MFOla2O8Z7eat7ym" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T08:22:16.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PLL0xj2q4GSX_Fdl9j-r" version="22.1.11" type="github">
   <diagram name="Page-1" id="lBZ7qOmIiFW0Qeo22iZf">
     <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -132,6 +132,15 @@
         </mxCell>
         <mxCell id="jtb9o_WqS0qLVP6b7EF8-43" value="Torch/Paddle/AI&lt;br&gt;Communication Finish" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1080" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jtb9o_WqS0qLVP6b7EF8-48" value="User Op&amp;nbsp;on Host" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jtb9o_WqS0qLVP6b7EF8-49" value="TCCL Op on Host" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jtb9o_WqS0qLVP6b7EF8-50" value="Drive Op on Device" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
