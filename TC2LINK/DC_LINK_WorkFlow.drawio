@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T08:50:35.131Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xgKyytO0QuCjgEgz_58V" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T08:53:25.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="d62ORVjXs9WtNv463XCJ" version="22.1.18" type="github">
   <diagram name="Page-1" id="3Tf1uQsE-VSfRwFhdxx6">
     <mxGraphModel dx="1224" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="5yzuzg_MkdJ3tbxDxPKs-2" value="Post Slice 1 Data1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-1000" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-3" value="Poll Post S1D1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-600" width="120" height="40" as="geometry" />
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-3" value="Poll Post S1D1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5yzuzg_MkdJ3tbxDxPKs-4" value="Poll Complete" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1560" y="-800" width="120" height="40" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="5yzuzg_MkdJ3tbxDxPKs-5" value="Post Slice1 Flag1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1560" y="-880" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-6" value="Check S1 Fn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-6" value="Check S1 F(n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5yzuzg_MkdJ3tbxDxPKs-7" value="Cal Slice1 Datan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="5yzuzg_MkdJ3tbxDxPKs-8" value="Post S2 D1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-9" value="DMA S1 $D_n$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-9" value="DMA S1 D(n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5yzuzg_MkdJ3tbxDxPKs-10" value="Post Slice1 Data2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -37,13 +37,13 @@
         <mxCell id="5yzuzg_MkdJ3tbxDxPKs-11" value="Check Slice2 Fag1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1560" y="-320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-12" value="DMA D(n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-12" value="DMA S2 D(n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-13" value="Poll DMA S1 Dn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-13" value="Poll DMA S1 D(n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-14" value="Cal S1 Dn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-14" value="Cal S1 D(n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
