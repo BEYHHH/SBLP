@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T17:58:37.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WIFEHfoslfZ7AUByK_Tl" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T05:37:12.342Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="y-fpInzPoFloohfnk49Q" version="22.1.18" type="github">
   <diagram name="Page-1" id="3Tf1uQsE-VSfRwFhdxx6">
-    <mxGraphModel dx="1535" dy="3715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="3346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,6 +259,42 @@
         </mxCell>
         <mxCell id="5yzuzg_MkdJ3tbxDxPKs-94" value="Post S1 F(n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1360" y="2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-95" value="Post S1 D1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-96" value="DMA S1 D(n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-97" value="Check Pre S1 D(1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-98" value="Poll Post S1D1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-99" value="Check S1 F(n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-100" value="Poll DMA S1 D(n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-101" value="Cal S1 D(n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-102" value="Post S1 F1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-103" value="Poll Post S1F1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-104" value="Post Pre S1 D(n-1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-105" value="Poll &lt;br&gt;Post Pre S1 D(n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5yzuzg_MkdJ3tbxDxPKs-106" value="Calculate other &lt;br&gt;Slice" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
