@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T17:20:34.558Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="J1c1vcjOG0gtnbv-faQ9" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T17:24:15.102Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="9Wf_kHqnnHhtE81QY7W0" version="23.0.0" type="github">
   <diagram name="Page-1" id="dFplwA7LAqxXr1wG6L84">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,31 @@
           <mxGeometry x="120" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q3gFSw43MhC_Q-BjB-Tb-2" value="CG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q3gFSw43MhC_Q-BjB-Tb-3" value="Trigger CG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q3gFSw43MhC_Q-BjB-Tb-4" value="Calculate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q3gFSw43MhC_Q-BjB-Tb-5" value="Trigger P2P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q3gFSw43MhC_Q-BjB-Tb-6" value="Calculate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q3gFSw43MhC_Q-BjB-Tb-7" value="Pending Flag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q3gFSw43MhC_Q-BjB-Tb-8" value="Trigger P2P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q3gFSw43MhC_Q-BjB-Tb-9" value="Pending P2P Flag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q3gFSw43MhC_Q-BjB-Tb-10" value="Trigger P2P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
