@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T17:09:39.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gQdGJjsWNczL2TXvsx3J" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T17:48:24.544Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Va4tXSbayE5gDKsd04QN" version="23.1.7" type="github">
   <diagram name="Page-1" id="8UkeEsG8CBlmwoBD3Vzl">
     <mxGraphModel dx="972" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pfz1q1TMqQPkibygIN71-43" value="Door&lt;br&gt;Bell Flag 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="760" y="340" width="40" height="40" as="geometry" />
+          <mxGeometry x="640" y="340" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pfz1q1TMqQPkibygIN71-44" value="Post Flag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1340" y="360" width="60" height="40" as="geometry" />
@@ -34,17 +34,14 @@
         <mxCell id="Pfz1q1TMqQPkibygIN71-45" value="Data Transport Channel 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1120" y="480" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pfz1q1TMqQPkibygIN71-46" value="Data Transport Channel（80K 5.1us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="360" y="460" width="400" height="40" as="geometry" />
+        <mxCell id="Pfz1q1TMqQPkibygIN71-46" value="1 Data Transport Channel（80K 3.1us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pfz1q1TMqQPkibygIN71-53" value="Config DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1280" y="360" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pfz1q1TMqQPkibygIN71-54" value="IF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1240" y="360" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Pfz1q1TMqQPkibygIN71-55" value="Data Transport Channel 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="900" y="440" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pfz1q1TMqQPkibygIN71-57" value="Calculate Data（80K 2.4us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="200" height="40" as="geometry" />
@@ -68,16 +65,22 @@
           <mxGeometry x="360" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pfz1q1TMqQPkibygIN71-65" value="Door&lt;br&gt;Bell 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="520" y="340" width="40" height="40" as="geometry" />
+          <mxGeometry x="560" y="340" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pfz1q1TMqQPkibygIN71-66" value="Config 1&amp;nbsp;Flag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Pfz1q1TMqQPkibygIN71-66" value="Config 1&amp;nbsp;Flag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="440" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pfz1q1TMqQPkibygIN71-67" value="Calculate Data（80K 2.4us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="180" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pfz1q1TMqQPkibygIN71-68" value="Calculate Data（80K 2.4us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="720" y="180" width="200" height="40" as="geometry" />
+          <mxGeometry x="570" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfz1q1TMqQPkibygIN71-69" value="Poll 1 DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfz1q1TMqQPkibygIN71-71" value="2 Data Transport Channel（80K 3.1us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="460" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
