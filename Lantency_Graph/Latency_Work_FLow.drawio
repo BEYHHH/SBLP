@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T18:10:22.294Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9rQ9MQhSQ9ZTsYzbdzdr" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T18:22:39.437Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="De87MiD_NPM0GBXLsxY-" version="23.1.7" type="github">
   <diagram name="Page-1" id="8UkeEsG8CBlmwoBD3Vzl">
-    <mxGraphModel dx="578" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="763" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="nkol4YsRaVg4eansRC3j-13" value="1 Calculate Data 3（80K 2.4us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="220" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nkol4YsRaVg4eansRC3j-14" value="2 Calculate Data 1（80K 0.6 us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="nkol4YsRaVg4eansRC3j-14" value="2 Calculate Data 1（80K&lt;br&gt;1.1 us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="720" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nkol4YsRaVg4eansRC3j-15" value="Poll 1 DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -61,10 +61,10 @@
         <mxCell id="nkol4YsRaVg4eansRC3j-19" value="Door&lt;br&gt;Bell 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="880" y="340" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nkol4YsRaVg4eansRC3j-20" value="3 Data Transport Channel（80K 3.3us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="nkol4YsRaVg4eansRC3j-20" value="3 Data Transport Channel&lt;br&gt;（第二轮需要发送的 80K 耗时3.3us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="920" y="460" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nkol4YsRaVg4eansRC3j-21" value="2 Calculate Data 2（80K 0.6 us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="nkol4YsRaVg4eansRC3j-21" value="2 Calculate Data 2（80K 1.1 us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1000" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nkol4YsRaVg4eansRC3j-22" value="Config 2 Flag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
@@ -85,13 +85,13 @@
         <mxCell id="nkol4YsRaVg4eansRC3j-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="300" as="sourcePoint" />
-            <mxPoint x="1560" y="300" as="targetPoint" />
+            <mxPoint x="1680" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nkol4YsRaVg4eansRC3j-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="420" as="sourcePoint" />
-            <mxPoint x="1560" y="420" as="targetPoint" />
+            <mxPoint x="1680" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nkol4YsRaVg4eansRC3j-30" value="Config 4 DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -99,6 +99,39 @@
         </mxCell>
         <mxCell id="nkol4YsRaVg4eansRC3j-31" value="Poll 3 DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1160" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkol4YsRaVg4eansRC3j-32" value="Door&lt;br&gt;Bell Flag 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkol4YsRaVg4eansRC3j-34" value="3 Calculate Data 1（40K 1.6 us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkol4YsRaVg4eansRC3j-35" value="Door&lt;br&gt;Bell 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkol4YsRaVg4eansRC3j-36" value="3 Data Transport Channel&lt;br&gt;（第3轮需要发送的 80K 耗时1.9us）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="460" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkol4YsRaVg4eansRC3j-37" value="Config 4 Flag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkol4YsRaVg4eansRC3j-38" value="Poll 4 DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkol4YsRaVg4eansRC3j-40" value="Door&lt;br&gt;Bell Flag 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkol4YsRaVg4eansRC3j-41" value="Poll&lt;br&gt;Flag 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="810" y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkol4YsRaVg4eansRC3j-42" value="Poll&lt;br&gt;Flag 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkol4YsRaVg4eansRC3j-43" value="Poll&lt;br&gt;Flag 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkol4YsRaVg4eansRC3j-44" value="Poll&lt;br&gt;Flag 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="340" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
