@@ -1,9 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T02:58:36.828Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.7" etag="hPDwpdMP4gKMtlCEqxbd" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T03:08:16.154Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fFDK67TkPfZMQy2OxKHV" version="23.1.7" type="github">
   <diagram name="Page-1" id="HBpnuGsFqD7HSKSNG-w7">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-1" value="Config DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-2" value="Data Transport Channel 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-3" value="Poll DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-7" value="IF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-12" value="Config DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-14" value="Poll DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="360" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-15" value="IF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-17" value="Config DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-19" value="Poll DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="320" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-20" value="IF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-21" value="Config DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="760" y="360" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-23" value="Poll DMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="980" y="360" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-24" value="IF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="720" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-25" value="Data Transport Channel 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-26" value="Data Transport Channel 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="660" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-27" value="Data Transport Channel 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="820" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-28" value="Calculate Data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-29" value="Calculate Data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-30" value="Calculate Data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-31" value="Calculate Data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="300" as="sourcePoint" />
+            <mxPoint x="1240" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wedvjj0MfOJ7BwkkelRL-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="420" as="sourcePoint" />
+            <mxPoint x="1240" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
