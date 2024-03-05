@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T18:33:53.656Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nzVYgNZ1B7gJheRSEezg" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T18:34:23.253Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RhvbFok9MjLnQU7TpWqO" version="24.0.1" type="github">
   <diagram name="Page-1" id="sz9WDsKcMjd7FwOMRA3z">
     <mxGraphModel dx="2585" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -311,7 +311,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="98Ptpq3VxeF9D4LMuZ2r-116" value="Card&lt;br&gt;3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="98Ptpq3VxeF9D4LMuZ2r-116" value="Card&lt;br&gt;3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1120" y="800" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="98Ptpq3VxeF9D4LMuZ2r-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="98Ptpq3VxeF9D4LMuZ2r-118" target="98Ptpq3VxeF9D4LMuZ2r-127">
@@ -333,7 +333,7 @@
         <mxCell id="98Ptpq3VxeF9D4LMuZ2r-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="98Ptpq3VxeF9D4LMuZ2r-122" target="98Ptpq3VxeF9D4LMuZ2r-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="98Ptpq3VxeF9D4LMuZ2r-122" value="Card&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="98Ptpq3VxeF9D4LMuZ2r-122" value="Card&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1440" y="1160" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="98Ptpq3VxeF9D4LMuZ2r-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="98Ptpq3VxeF9D4LMuZ2r-124" target="98Ptpq3VxeF9D4LMuZ2r-127">
